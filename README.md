@@ -93,7 +93,10 @@ The idea for this project has been brought by this [Reddit post](https://www.red
 
 ### Who wrote the dkms module?
 
-That was written by [a1wong](https://github.com/a1wong/it87)
+That was written by 
+ *  Copyright (C) 2001 Chris Gauthron
+ *  Copyright (C) 2005-2010 Jean Delvare <jdelvare@suse.de>
+and archived by [a1wong](https://github.com/a1wong/it87)
 
 ## Results
 
