@@ -23,13 +23,15 @@ Here is a step by step guide on how to do this:
 
 ## Install Guide
 
-1) Install the packages mentioned above like
+1) SSH into your UGREEN NAS
+
+2) Install the packages mentioned above like
 
 ```bash
 sudo dnf install gcc make dkms dwarves kernel-headers sensors
 ```
 
-2) Building the dkms module and installing it
+3) Building the dkms module and installing it
 
 ```bash
 cd /it87
